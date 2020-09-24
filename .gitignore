@@ -1,1 +1,11 @@
 
+.idea/.gitignore
+.idea/codeStyles/
+.idea/inspectionProfiles/
+.idea/misc.xml
+.idea/vcs.xml
+2001dmp.iml
+spark-warehouse/
+src/main/java/
+src/test/
+target/generated-sources/
